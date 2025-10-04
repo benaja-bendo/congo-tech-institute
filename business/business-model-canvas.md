@@ -3,7 +3,7 @@
 ## 📊 Vue d'Ensemble du Modèle Économique
 
 ### 🤝 Partenaires Clés
-- **Universités locales** (UNIKIN, UPC, ISC)
+- **Universités locales** (Université de Louango, DGC, 2i)
 - **Organismes de certification internationaux**
   - CompTIA (Security+)
   - Cisco (CyberOps Associate)
@@ -11,10 +11,10 @@
   - Microsoft (Azure Fundamentals)
 - **Fournisseurs technologiques**
   - GitHub Education
-  - Google for Education
-  - Microsoft Education
 - **Entreprises locales** (sponsors et recruteurs)
+  - Ponton Web Community
 - **Espaces de coworking** (pour sessions présentielles)
+  - Mere et enfant Pointe-Noire
 
 ### 🎯 Activités Clés
 1. **Création de contenu pédagogique**
@@ -86,16 +86,16 @@
 
 #### Revenus Principaux
 1. **Frais d'inscription par paliers**
-   - Palier 1 : Formation locale (150-200 USD)
-   - Palier 2 : + Certification internationale (300-400 USD)
-   - Palier Premium : + Mentorat personnalisé (500-600 USD)
+   - Palier 1 : Formation locale (120 000 FCFA ≈ 183 €)
+   - Palier 2 : + Certification internationale (240 000 FCFA ≈ 366 €)
+   - Palier Premium : + Mentorat personnalisé (360 000 FCFA ≈ 549 €)
 
-2. **Ateliers spécialisés** (50-100 USD/atelier)
+2. **Ateliers spécialisés** (30 000 - 60 000 FCFA/atelier ≈ 46 - 92 €)
 
 #### Revenus Secondaires
 - **Sponsoring entreprises** (formations employés)
-- **Abonnement ressources** (20 USD/mois)
-- **Commissions partenariats** (outils, certifications)
+- **Abonnement ressources** (15 000 - 30 000 FCFA/mois ≈ 23 - 46 €)
+- **Commissions partenariats** (10% des revenus)
 
 ### 💸 Structure des Coûts
 

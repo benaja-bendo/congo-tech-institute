@@ -120,27 +120,27 @@ Positionner le Congo Tech Institute comme **LA référence** en formation tech a
 
 ### Campagne 1 : "Ton Avenir Tech Commence Ici"
 - **Période** : Lancement (3 mois)
-- **Budget** : 2000 USD
+- **Budget** : 1 200 000 FCFA (≈ 1 830 €)
 - **Canaux** : Facebook Ads + TikTok + Événements
 - **Objectif** : 500 prospects, 50 inscriptions
 
 ### Campagne 2 : "Success Stories"
 - **Période** : Croissance (6 mois)
-- **Budget** : 3000 USD
+- **Budget** : 1 800 000 FCFA (≈ 2 745 €)
 - **Canaux** : Multi-canal avec témoignages
 - **Objectif** : 1000 prospects, 150 inscriptions
 
 ### Campagne 3 : "Certification Internationale"
 - **Période** : Maturité (ongoing)
-- **Budget** : 1500 USD/mois
+- **Budget** : 900 000 FCFA/mois (≈ 1 372 €)
 - **Canaux** : Contenu premium + partenariats
 - **Objectif** : Positionnement expert
 
 ## 📊 Métriques Marketing
 
 ### Métriques d'Acquisition
-- **Coût par Lead** (CPL) : <10 USD
-- **Coût d'Acquisition Client** (CAC) : <50 USD
+- **Coût par Lead** (CPL) : <6 000 FCFA (≈ 9 €)
+- **Coût d'Acquisition Client** (CAC) : <30 000 FCFA (≈ 46 €)
 - **Taux de conversion** : >10% prospects → inscrits
 - **Reach mensuel** : >50,000 personnes
 
@@ -158,16 +158,16 @@ Positionner le Congo Tech Institute comme **LA référence** en formation tech a
 
 ## 💰 Budget Marketing
 
-### Répartition Mensuelle (1500 USD)
-- **Publicité digitale** : 800 USD (53%)
-- **Contenu et création** : 300 USD (20%)
-- **Événements et partenariats** : 250 USD (17%)
-- **Outils marketing** : 150 USD (10%)
+### Répartition Mensuelle (900 000 FCFA ≈ 1 372 €)
+- **Publicité digitale** : 480 000 FCFA (53%) (≈ 732 €)
+- **Contenu et création** : 180 000 FCFA (20%) (≈ 275 €)
+- **Événements et partenariats** : 150 000 FCFA (17%) (≈ 229 €)
+- **Outils marketing** : 90 000 FCFA (10%) (≈ 137 €)
 
-### ROI Attendu
-- **Objectif** : 30 inscriptions/mois
-- **Revenue** : 30 × 300 USD = 9000 USD
-- **ROI** : 500% (9000/1500)
+### ROI Marketing
+- **Investissement** : 900 000 FCFA/mois (≈ 1 372 €)
+- **Revenue** : 30 × 180 000 FCFA = 5 400 000 FCFA (≈ 8 235 €)
+- **ROI** : 500% (5,4M/900K)
 
 ## 🤝 Partenariats Marketing
 

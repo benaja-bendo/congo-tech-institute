@@ -32,39 +32,39 @@
 #### 🔐 Cybersécurité
 1. **CompTIA Security+** 
    - Référence mondiale pour débutants
-   - Coût examen : ~370 USD
+   - Coût examen : ~222 000 FCFA (≈ 340 €)
    - Durée préparation : 3-4 mois
 
 2. **EC-Council CEH (Certified Ethical Hacker)**
    - Prestige international
-   - Coût examen : ~1,199 USD
+   - Coût examen : ~720 000 FCFA (≈ 1 100 €)
    - Durée préparation : 4-6 mois
 
 3. **Cisco CyberOps Associate**
    - Spécialisation opérations sécurité
-   - Coût examen : ~300 USD
+   - Coût examen : ~180 000 FCFA (≈ 275 €)
    - Durée préparation : 3-4 mois
 
 #### ☁️ Cloud & Infrastructure
 1. **AWS Certified Cloud Practitioner**
    - Certification d'entrée AWS
-   - Coût examen : ~100 USD
+   - Coût examen : ~60 000 FCFA (≈ 92 €)
    - Durée préparation : 2-3 mois
 
 2. **Microsoft Azure Fundamentals**
    - Base certification Microsoft
-   - Coût examen : ~99 USD
+   - Coût examen : ~59 000 FCFA (≈ 90 €)
    - Durée préparation : 2-3 mois
 
 3. **Google Associate Cloud Engineer**
    - Certification Google Cloud
-   - Coût examen : ~125 USD
+   - Coût examen : ~75 000 FCFA (≈ 115 €)
    - Durée préparation : 3-4 mois
 
 #### 💻 Développement Web/Mobile
 1. **Certifications W3C** via edX
    - HTML5 et CSS Fundamentals
-   - Coût : Gratuit à ~99 USD
+   - Coût : Gratuit à ~59 000 FCFA (≈ 90 €)
    - Durée : 1-2 mois
 
 2. **FreeCodeCamp Certification**
@@ -86,7 +86,7 @@
 - **Niveau** : Bac+1 à Bac+3
 - **Situation** : Étudiant ou jeune diplômé
 - **Motivation** : Employabilité et compétences pratiques
-- **Budget** : 200-600 USD (avec aide familiale)
+- **Budget** : 120 000 - 360 000 FCFA (≈ 180 - 550 €) avec aide familiale
 
 ## 📋 Plan de Lancement MVP
 
@@ -116,19 +116,19 @@
 
 ## 💰 Modèle de Pricing MVP
 
-### Palier 1 : Formation Locale (200 USD)
+### Palier 1 : Formation Locale (120 000 FCFA ≈ 180 €)
 - Cours complets + exercices
 - Support communautaire
 - Ateliers présentiels
 - Attestation interne
 
-### Palier 2 : + Certification Internationale (400 USD)
+### Palier 2 : + Certification Internationale (240 000 FCFA ≈ 365 €)
 - Tout le Palier 1
 - Préparation spécialisée certification
 - Frais d'examen inclus
 - Coaching personnalisé
 
-### Palier Premium : + Mentorat Pro (600 USD)
+### Palier Premium : + Mentorat Pro (360 000 FCFA ≈ 550 €)
 - Tout le Palier 2
 - Mentor dédié 1-to-1
 - Mise en relation entreprises

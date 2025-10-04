@@ -17,7 +17,7 @@ Cette section centralise tous les outils, ressources et supports nécessaires au
 #### Moodle (Alternative)
 - **Avantages** : Open source, très personnalisable
 - **Usage** : Plateforme complète si croissance importante
-- **Coût** : Hébergement (~50 USD/mois)
+- **Coût** : Hébergement (~30 000 FCFA/mois ≈ 45 €)
 - **Capacité** : Selon serveur
 
 ### Outils de Développement
@@ -30,7 +30,7 @@ Cette section centralise tous les outils, ressources et supports nécessaires au
 #### Replit/CodePen
 - **Usage** : Coding en ligne, pas d'installation requise
 - **Avantages** : Accessible partout, collaboration temps réel
-- **Coût** : Gratuit avec limitations, Pro 7 USD/mois
+- **Coût** : Gratuit avec limitations, Pro 4 200 FCFA/mois (≈ 6,40 €)
 
 #### Visual Studio Code
 - **Usage** : IDE principal recommandé
@@ -138,9 +138,9 @@ Cette section centralise tous les outils, ressources et supports nécessaires au
 ### Cloud Computing
 
 #### Comptes et Crédits
-- **AWS Educate** : 100 USD de crédits
-- **Azure for Students** : 100 USD + services gratuits
-- **Google Cloud Education** : 50 USD + Always Free
+- **AWS Educate** : 60 000 FCFA de crédits (≈ 92 €)
+- **Azure for Students** : 60 000 FCFA + services gratuits (≈ 92 €)
+- **Google Cloud Education** : 30 000 FCFA + Always Free (≈ 46 €)
 - **GitHub Student Pack** : Outils développeur gratuits
 
 #### Environnements de Lab
@@ -209,35 +209,35 @@ Cette section centralise tous les outils, ressources et supports nécessaires au
 
 ## 💰 Budget Ressources
 
-### Coûts Mensuels (300 USD)
+### Coûts Mensuels (180 000 FCFA ≈ 275 €)
 
-#### Outils Payants (150 USD)
-- **Zoom Pro** : 15 USD
-- **Notion Pro** : 10 USD
-- **Vimeo Pro** : 20 USD
-- **Pluralsight** : 30 USD
-- **Adobe Creative** : 25 USD
-- **Hébergement** : 25 USD
-- **Domaines** : 10 USD
-- **Divers** : 15 USD
+#### Outils Payants (90 000 FCFA ≈ 137 €)
+- **Zoom Pro** : 9 000 FCFA (≈ 14 €)
+- **Notion Pro** : 6 000 FCFA (≈ 9 €)
+- **Vimeo Pro** : 12 000 FCFA (≈ 18 €)
+- **Pluralsight** : 18 000 FCFA (≈ 27 €)
+- **Adobe Creative** : 15 000 FCFA (≈ 23 €)
+- **Hébergement** : 15 000 FCFA (≈ 23 €)
+- **Domaines** : 6 000 FCFA (≈ 9 €)
+- **Divers** : 9 000 FCFA (≈ 14 €)
 
-#### Contenus et Licences (100 USD)
-- **Stock photos/videos** : 30 USD
-- **Musique** : 20 USD
-- **Fonts premium** : 10 USD
-- **Templates** : 20 USD
-- **Certifications formateurs** : 20 USD
+#### Contenus et Licences (60 000 FCFA ≈ 92 €)
+- **Stock photos/videos** : 18 000 FCFA (≈ 27 €)
+- **Musique** : 12 000 FCFA (≈ 18 €)
+- **Fonts premium** : 6 000 FCFA (≈ 9 €)
+- **Templates** : 12 000 FCFA (≈ 18 €)
+- **Certifications formateurs** : 12 000 FCFA (≈ 18 €)
 
-#### Matériel et Équipement (50 USD)
+#### Matériel et Équipement (30 000 FCFA ≈ 46 €)
 - **Amortissement** équipement vidéo
 - **Maintenance** matériel
 - **Accessoires** (micros, éclairage)
 
 ### ROI des Ressources
-- **Coût** : 300 USD/mois
+- **Coût** : 180 000 FCFA/mois (≈ 275 €)
 - **Capacité** : 100 étudiants simultanés
-- **Coût par étudiant** : 3 USD/mois
-- **Marge** : 97% (sur tarif 100 USD/mois)
+- **Coût par étudiant** : 1 800 FCFA/mois (≈ 2,75 €)
+- **Marge** : 97% (sur tarif 60 000 FCFA/mois ≈ 92 €)
 
 ## 📊 Métriques d'Utilisation
 

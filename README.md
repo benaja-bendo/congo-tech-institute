@@ -61,9 +61,9 @@ congo-tech-institute/
 ## 📞 Contact
 
 - **Email** : contact@congotechinstitute.com
-- **WhatsApp** : +243 XXX XXX XXX
-- **Adresse** : Kinshasa, République Démocratique du Congo
+- **WhatsApp** : +242 06 644 32 79
+- **Adresse** : Mere et enfant Pointe-Noire, République du Congo
 
 ---
 
-*Dernière mise à jour : Janvier 2025*
+*Dernière mise à jour : Octobre 2025*

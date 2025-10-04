@@ -8,15 +8,15 @@
 - **Durée** : 6 mois (format hybride)
 - **Niveau** : Débutant à Intermédiaire
 - **Certification** : W3C + Projet Portfolio
-- **Technologies** : HTML5, CSS3, JavaScript, React, Node.js
-- **Prix** : 200-400 USD selon palier
+- **Technologies** : HTML5, CSS3, JavaScript, React, Node.js (& Framework), php ( & Framework)
+- **Prix** : 120 000 - 180 000 FCFA selon palier (≈ 183 - 275 €)
 
 #### [Développement Mobile](./mobile/README.md)
 - **Durée** : 4 mois
 - **Niveau** : Intermédiaire (bases web requises)
 - **Certification** : Projet App Store/Play Store
-- **Technologies** : React Native, Flutter
-- **Prix** : 300-500 USD selon palier
+- **Technologies** : React Native, Flutter, Dart, Java, Kotlin
+- **Prix** : 120 000 - 240 000 FCFA selon palier (≈ 183 - 366 €)
 
 ### 🔐 Cybersécurité
 
@@ -24,15 +24,15 @@
 - **Durée** : 4 mois
 - **Niveau** : Débutant
 - **Certification** : CompTIA Security+
-- **Contenu** : Sécurité réseaux, cryptographie, gestion des risques
-- **Prix** : 400-600 USD (examen inclus)
+- **Contenu** : Sécurité réseaux, cryptographie, gestion des risques, protocoles de sécurité
+- **Prix** : 240 000 - 360 000 FCFA (examen inclus) (≈ 366 - 549 €)
 
 #### [Ethical Hacking](./ethical-hacking/README.md)
 - **Durée** : 6 mois
 - **Niveau** : Intermédiaire
 - **Certification** : CEH (Certified Ethical Hacker)
 - **Contenu** : Tests de pénétration, analyse de vulnérabilités
-- **Prix** : 800-1200 USD (examen inclus)
+- **Prix** : 240 000 - 360 000 FCFA (examen inclus) (≈ 366 - 549 €)
 
 ### ☁️ Cloud & Infrastructure
 
@@ -41,14 +41,14 @@
 - **Niveau** : Débutant
 - **Certification** : AWS Certified Cloud Practitioner
 - **Contenu** : Services AWS, architecture cloud, sécurité
-- **Prix** : 250-400 USD (examen inclus)
+- **Prix** : 120 000 - 240 000 FCFA (examen inclus) (≈ 183 - 366 €)
 
 #### [Microsoft Azure Fundamentals](./azure-fundamentals/README.md)
 - **Durée** : 3 mois
 - **Niveau** : Débutant
 - **Certification** : Microsoft Azure Fundamentals
 - **Contenu** : Services Azure, gouvernance, sécurité
-- **Prix** : 250-400 USD (examen inclus)
+- **Prix** : 120 000 - 240 000 FCFA (examen inclus) (≈ 183 - 366 €)
 
 ## 📚 Structure Pédagogique
 

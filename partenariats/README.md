@@ -216,15 +216,15 @@ Créer un **écosystème collaboratif** qui renforce la qualité des formations,
 
 ## 💰 Budget Partenariats
 
-### Coûts Directs (500 USD/mois)
-- **Déplacements** et représentation : 200 USD
-- **Matériel marketing** : 150 USD
-- **Frais juridiques** : 100 USD
-- **Outils CRM** : 50 USD
+### Coûts Directs (300 000 FCFA/mois ≈ 460 €)
+- **Déplacements** et représentation : 120 000 FCFA (≈ 183 €)
+- **Matériel marketing** : 90 000 FCFA (≈ 137 €)
+- **Frais juridiques** : 60 000 FCFA (≈ 92 €)
+- **Outils CRM** : 30 000 FCFA (≈ 46 €)
 
 ### ROI Attendu
-- **Réduction coûts** : 1000 USD/mois (espaces)
-- **Augmentation revenus** : 2000 USD/mois (étudiants)
+- **Réduction coûts** : 600 000 FCFA/mois (≈ 915 €) (espaces)
+- **Augmentation revenus** : 1 200 000 FCFA/mois (≈ 1 830 €) (étudiants)
 - **ROI net** : 500% (2500/500)
 
 ---
